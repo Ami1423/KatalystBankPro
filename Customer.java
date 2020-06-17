@@ -7,6 +7,7 @@ public class Customer {
 	private double balance;
 	private String type;
 	private double salary;
+	private double amount;
 	public int getAcctNum() {
 		return acctNum;
 	}
